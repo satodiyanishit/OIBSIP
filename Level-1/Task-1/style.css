@@ -8,8 +8,8 @@ body{
 header{
     padding: 50px;
     text-align: center;
-    background: #d6d62ecc;
-    color: rgb(0, 0, 0);
+    background: black;
+    color: white;
 }
 header h1 {
     font-size: 30px;
@@ -33,7 +33,7 @@ section{
     height: 100vh;
 }
 section:nth-child(even){
-    background:#614cb530;
+    background: gainsboro;
 }
 iframe{
     padding: 0px 0px;
